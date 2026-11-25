@@ -1,0 +1,12 @@
+#include "toppar/forcefield.itp"
+#include "toppar/GalCerOH180.itp"
+#include "toppar/CHOL.itp"
+#include "toppar/TIP3P.itp"
+
+[ system ]
+A lipid membrane
+
+[ molecules ]
+gc180        128
+CHL          128
+TP3        11649
